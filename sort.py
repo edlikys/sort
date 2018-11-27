@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 import numpy as np
 
 def insertionsort(n):
@@ -21,8 +15,6 @@ def insertionsort(n):
 new_arr = insertionsort(10)
 print(new_arr)
 
-
-# In[ ]:
 
 
 
